@@ -1,7 +1,3 @@
 <!doctype html>
-<h1>It works!</h1>
-<%
-  for (int i = 0; i < 5; ++i) {
-      out.println("<p>Hello, world!</p>");
-  }
-%>
+<h1>CI/CD Project!</h1>
+<p>Deploying my source code in 'Git' from 'dev' environment to 'production' environment.</p>
